@@ -4,5 +4,4 @@ I replicate the decompositions of output into permanent and transitory shocks in
 
 ## Repo Overview
 
-
- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+In [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Replication.m) I replicate the first decompositions of output into permanent and transitory shocks in [Blanchard and Quah, 1988](https://uh.edu/~bsorense/BlanchardQuah1989.pdf).
