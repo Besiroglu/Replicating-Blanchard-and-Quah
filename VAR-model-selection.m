@@ -1,6 +1,6 @@
 (* ::Package:: *)
 
-%%  Calculating optimal lags in the VAR model for different time periods
+%%  This section computes VARs with different lag-lengths, and assesses the log-likelihoods, AIC, and BIC
 
 clear; 
 clc; 
