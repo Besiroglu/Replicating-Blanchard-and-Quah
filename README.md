@@ -8,3 +8,17 @@ In [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/b
 
 
 ![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/1.jpg)
+
+
+
+
+![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/2.jpg)
+
+
+![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/3.jpg)
+
+
+![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/4.jpg)
+
+
+![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/5.jpg)
