@@ -4,9 +4,7 @@ I replicate the decompositions of output into permanent and transitory shocks in
 
 ## Repo Overview
 
-In [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Replication.m) I replicate the decompositions of output into permanent and transitory shocks in [Blanchard and Quah, 1988](https://uh.edu/~bsorense/BlanchardQuah1989.pdf). Along with Blanchard and Quah, we assume that demand-shocks have no long-run effect on output, and impose this long-run restriction through a Cholesky Decomposition.
-
-Impulse response functions for a unit supply and demand disturbances estimated using the base-case  VAR(8)  model.   Shaded  region  represents  95%  confidence  interval  generated  by  bootstrapping  with1,000 replications.
+In [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Replication.m) I replicate the decompositions of output into permanent and transitory shocks in [Blanchard and Quah, 1988](https://uh.edu/~bsorense/BlanchardQuah1989.pdf). Along with Blanchard and Quah, we assume that demand-shocks have no long-run effect on output, and impose this long-run restriction through a Cholesky Decomposition. [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Replication.m) graphs the asccoiated impulse response response functions for a unit supply and demand disturbances estimated using the base-case  VAR(8)  model (figure reproduced below). Shaded  regions  represent  95%  confidence  interval  generated  by  bootstrapping  with 1,000 replications.
 
 ![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/1.jpg)
 
