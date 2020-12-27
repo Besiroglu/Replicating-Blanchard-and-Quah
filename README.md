@@ -8,9 +8,8 @@ In [Replication.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/b
 
 ![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/1.jpg)
 
+In [VAR-model-selection.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/VAR-model-selection.m), I compute the Bayesian Information Criteria for VARs with different lag-lengths. I consider lags ranging from 2 (as is suggested by theBayesian information criteria) to 8 (as is adopted in Blanchard and Quah, 1988) and the intermediate numberof lags, spaced out by 2 lags. I compute this for VARs that span the 1950-1988 period (considered in [Blanchard and Quah, 1988](https://uh.edu/~bsorense/BlanchardQuah1989.pdf)), and the 1950-2015 period. In [Hypothesis-tests.m](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Hypothesis-tests.m), I perform the Engle test for residual heteroscedasticity and the Ljung-Box Q-test for residual autocorrelation.
 
-
-We consider lags ranging from 2 (as is suggested by theBayesian information criteria) to 8 (as is adopted in Blanchard and Quah, 1988) and the intermediate numberof lags, spaced out by 2 lags.
 
 
 ![](https://github.com/Besiroglu/Replicating-Blanchard-and-Quah/blob/main/Images/2.jpg)
